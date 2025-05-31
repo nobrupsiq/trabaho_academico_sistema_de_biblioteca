@@ -1,0 +1,17 @@
+Funções de usuario
+  - Fazer login ✔️
+  - Cadastrar ✔️
+  - Pesquisar livro ✔️
+  - Adicionar livro no acervo ✔️
+  - Deletar livro do acervo ✔️
+  - Favoritar livro ✔️
+  - Exibir catálogo de livros ✔️
+  - Abrir livro ✔️
+
+Funções de administrador
+  - Cadastrar usuario ✔️
+  - Deletar usuário ✔️
+  - Cadastrar livro ao catálogo ✔️
+  - Deletar livro ✔️
+  - Buscar usuário ✔️
+  - Listar usuários cadastrados ✔️

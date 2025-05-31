@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Harry Potter e a Camara Secreta",
+    "autor": "J. K. Rowling",
+    "genero": "Fantasia",
+    "livro": "Livros/harry-potter-e-a-camara-secreta.pdf"
+  },
+  {
+    "titulo": "Entendendo Algoritmos",
+    "autor": "Aditya Y. Bhargava",
+    "genero": "Tecnologia",
+    "livro": "Livros/Entendendo_Algoritmos.pdf"
+  },
+  {
+    "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+    "autor": "J.R.R. Tolkien",
+    "genero": "Fantasia",
+    "livro": "Livros/sociedade_do_anel.pdf"
+  }
+]

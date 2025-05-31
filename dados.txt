@@ -1,0 +1,2 @@
+bruno:bruno@admin.com:bruno1234
+teste:teste@gmail.com:testedoteste343
